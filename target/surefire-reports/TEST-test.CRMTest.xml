@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="1" name="test.CRMTest" time="2.298" errors="0" skipped="0">
+<testsuite tests="1" failures="1" name="test.CRMTest" time="13.064" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin"/>
-    <property name="java.vm.version" value="25.221-b11"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\bin"/>
+    <property name="java.vm.version" value="25.231-b11"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Hamro\Selenium\FreeCRMTest"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:/CRMproject - Copy"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,44 +16,46 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Hamro\Selenium\FreeCRMTest"/>
-    <property name="java.runtime.version" value="1.8.0_221-b11"/>
+    <property name="user.dir" value="C:\CRMproject - Copy"/>
+    <property name="java.runtime.version" value="1.8.0_231-b11"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\endorsed"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
-    <property name="java.io.tmpdir" value="C:\Users\Hamro\AppData\Local\Temp\"/>
+    <property name="java.io.tmpdir" value="C:\Users\NSHRES~1\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Hamro\Selenium\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf6264203507164792766.tmp"/>
+    <property name="classworlds.conf" value="C:/Program Files/Maven/apache-maven-3.6.1/bin/m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_221\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_221/bin/server;C:/Program Files/Java/jre1.8.0_221/bin;C:/Program Files/Java/jre1.8.0_221/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Calibre2\;C:\Program Files (x86)\HP\Common\HPDestPlgIn\;C:\Program Files (x86)\HP\IdrsOCR_15.2.10.1114\;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\Maven\apache-maven-3.6.1\bin;C:\Users\Hamro\Anaconda3;C:\Users\Hamro\Anaconda3\Library\mingw-w64\bin;C:\Users\Hamro\Anaconda3\Library\usr\bin;C:\Users\Hamro\Anaconda3\Library\bin;C:\Users\Hamro\Anaconda3\Scripts;D:\Python\Scripts\;D:\Python\;C:\Users\Hamro\AppData\Local\Microsoft\WindowsApps;C:\Users\Hamro\AppData\Local\atom\bin;C:\Users\Hamro\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\HP\Common\HPDestPlgIn\;C:\Users\Hamro\AppData\Local\GitHubDesktop\bin;C:\Users\Hamro\Desktop\Selenium\eclipse;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_231\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\nshrestha\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\nshrestha\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Java\jdk1.8.0_231\bin;C:\Program Files\Maven\apache-maven-3.6.1\bin;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin;C:\Users\nshrestha\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="maven.conf" value="C:/Program Files/Maven/apache-maven-3.6.1/conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
-    <property name="user.home" value="C:\Users\Hamro"/>
+    <property name="library.jansi.path" value="C:/Program Files/Maven/apache-maven-3.6.1/lib/jansi-native"/>
+    <property name="user.home" value="C:\Users\nshrestha"/>
     <property name="user.timezone" value="America/Chicago"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
-    <property name="user.name" value="Hamro"/>
-    <property name="java.class.path" value="C:\Users\Hamro\Desktop\Selenium\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.11.0.20190220-2117\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="user.name" value="nshrestha"/>
+    <property name="java.class.path" value="C:/Program Files/Maven/apache-maven-3.6.1/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_221\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B clean install"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_231\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.version" value="1.8.0_221"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_221\jre\classes"/>
+    <property name="java.version" value="1.8.0_231"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_231\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_231\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_231\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\Hamro\Selenium\FreeCRMTest\EMBEDDED"/>
+    <property name="maven.home" value="C:\Program Files\Maven\apache-maven-3.6.1"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -61,65 +63,63 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="test.CRMTest" name="createQuickDraft" time="2.298">
-    <failure message="session not created: This version of ChromeDriver only supports Chrome version 81
+  <testcase classname="test.CRMTest" name="createQuickDraft" time="13.064">
+    <failure message="session not created: This version of ChromeDriver only supports Chrome version 83
 Build info: version: &apos;3.7.1&apos;, revision: &apos;8a0099a&apos;, time: &apos;2017-11-06T21:01:39.354Z&apos;
-System info: host: &apos;DESKTOP-43FULGJ&apos;, ip: &apos;192.168.1.15&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
+System info: host: &apos;silverone1&apos;, ip: &apos;192.168.1.64&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_231&apos;
 Driver info: driver.version: ChromeDriver
 remote stacktrace: Backtrace:
-	Ordinal0 [0x002C5F73+2449267]
-	Ordinal0 [0x001F8361+1606497]
-	Ordinal0 [0x000EF969+522601]
-	Ordinal0 [0x000805F3+67059]
-	Ordinal0 [0x0007CD92+52626]
-	Ordinal0 [0x0009C127+180519]
-	Ordinal0 [0x0009BF2D+180013]
-	Ordinal0 [0x00099E5B+171611]
-	Ordinal0 [0x00081DD8+73176]
-	Ordinal0 [0x00082E50+77392]
-	Ordinal0 [0x00082DE9+77289]
-	Ordinal0 [0x0020D8D7+1693911]
-	GetHandleVerifier [0x00364036+522726]
-	GetHandleVerifier [0x00363D74+522020]
-	GetHandleVerifier [0x00379187+609079]
-	GetHandleVerifier [0x003648A6+524886]
-	Ordinal0 [0x00205CBC+1662140]
-	Ordinal0 [0x0020F23B+1700411]
-	Ordinal0 [0x0020F3A3+1700771]
-	Ordinal0 [0x00225215+1790485]
-	BaseThreadInitThunk [0x77766359+25]
-	RtlGetAppContainerNamedObjectPath [0x778F7C24+228]
-	RtlGetAppContainerNamedObjectPath [0x778F7BF4+180]
-	(No symbol) [0x00000000]
-" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 81
+	Ordinal0 [0x00779563+2725219]
+	Ordinal0 [0x00678551+1672529]
+	Ordinal0 [0x00560359+525145]
+	Ordinal0 [0x004F0B77+68471]
+	Ordinal0 [0x004ED32C+54060]
+	Ordinal0 [0x0050CC37+183351]
+	Ordinal0 [0x0050CA3D+182845]
+	Ordinal0 [0x0050A94B+174411]
+	Ordinal0 [0x004F2528+75048]
+	Ordinal0 [0x004F35A0+79264]
+	Ordinal0 [0x004F3539+79161]
+	Ordinal0 [0x0068D607+1758727]
+	GetHandleVerifier [0x00896546+1050150]
+	GetHandleVerifier [0x00896291+1049457]
+	GetHandleVerifier [0x008A10D7+1094071]
+	GetHandleVerifier [0x00896B46+1051686]
+	Ordinal0 [0x00685B06+1727238]
+	Ordinal0 [0x0068EB7B+1764219]
+	Ordinal0 [0x0068ECE3+1764579]
+	Ordinal0 [0x006A4C05+1854469]
+	BaseThreadInitThunk [0x75586359+25]
+	RtlGetAppContainerNamedObjectPath [0x779D7C24+228]
+	RtlGetAppContainerNamedObjectPath [0x779D7BF4+180]
+" type="org.openqa.selenium.SessionNotCreatedException">org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 83
 Build info: version: &apos;3.7.1&apos;, revision: &apos;8a0099a&apos;, time: &apos;2017-11-06T21:01:39.354Z&apos;
-System info: host: &apos;DESKTOP-43FULGJ&apos;, ip: &apos;192.168.1.15&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
+System info: host: &apos;silverone1&apos;, ip: &apos;192.168.1.64&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_231&apos;
 Driver info: driver.version: ChromeDriver
 remote stacktrace: Backtrace:
-	Ordinal0 [0x002C5F73+2449267]
-	Ordinal0 [0x001F8361+1606497]
-	Ordinal0 [0x000EF969+522601]
-	Ordinal0 [0x000805F3+67059]
-	Ordinal0 [0x0007CD92+52626]
-	Ordinal0 [0x0009C127+180519]
-	Ordinal0 [0x0009BF2D+180013]
-	Ordinal0 [0x00099E5B+171611]
-	Ordinal0 [0x00081DD8+73176]
-	Ordinal0 [0x00082E50+77392]
-	Ordinal0 [0x00082DE9+77289]
-	Ordinal0 [0x0020D8D7+1693911]
-	GetHandleVerifier [0x00364036+522726]
-	GetHandleVerifier [0x00363D74+522020]
-	GetHandleVerifier [0x00379187+609079]
-	GetHandleVerifier [0x003648A6+524886]
-	Ordinal0 [0x00205CBC+1662140]
-	Ordinal0 [0x0020F23B+1700411]
-	Ordinal0 [0x0020F3A3+1700771]
-	Ordinal0 [0x00225215+1790485]
-	BaseThreadInitThunk [0x77766359+25]
-	RtlGetAppContainerNamedObjectPath [0x778F7C24+228]
-	RtlGetAppContainerNamedObjectPath [0x778F7BF4+180]
-	(No symbol) [0x00000000]
+	Ordinal0 [0x00779563+2725219]
+	Ordinal0 [0x00678551+1672529]
+	Ordinal0 [0x00560359+525145]
+	Ordinal0 [0x004F0B77+68471]
+	Ordinal0 [0x004ED32C+54060]
+	Ordinal0 [0x0050CC37+183351]
+	Ordinal0 [0x0050CA3D+182845]
+	Ordinal0 [0x0050A94B+174411]
+	Ordinal0 [0x004F2528+75048]
+	Ordinal0 [0x004F35A0+79264]
+	Ordinal0 [0x004F3539+79161]
+	Ordinal0 [0x0068D607+1758727]
+	GetHandleVerifier [0x00896546+1050150]
+	GetHandleVerifier [0x00896291+1049457]
+	GetHandleVerifier [0x008A10D7+1094071]
+	GetHandleVerifier [0x00896B46+1051686]
+	Ordinal0 [0x00685B06+1727238]
+	Ordinal0 [0x0068EB7B+1764219]
+	Ordinal0 [0x0068ECE3+1764579]
+	Ordinal0 [0x006A4C05+1854469]
+	BaseThreadInitThunk [0x75586359+25]
+	RtlGetAppContainerNamedObjectPath [0x779D7C24+228]
+	RtlGetAppContainerNamedObjectPath [0x779D7BF4+180]
 
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -147,14 +147,15 @@ remote stacktrace: Backtrace:
 	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:181)
 	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:168)
 	at org.openqa.selenium.chrome.ChromeDriver.&lt;init&gt;(ChromeDriver.java:123)
-	at util.CRMBrowserFactory.startBrowser(CRMBrowserFactory.java:16)
+	at util.CRMBrowserFactory.startBrowser(CRMBrowserFactory.java:15)
 	at test.CRMTest.createQuickDraft(CRMTest.java:16)
 </failure>
     <system-out>Configuring TestNG with: org.apache.maven.surefire.testng.conf.TestNG652Configurator@470e2030
 </system-out>
-    <system-err>Starting ChromeDriver 81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}) on port 42855
+    <system-err>Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 5326
 Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
 </system-err>
   </testcase>
 </testsuite>

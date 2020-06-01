@@ -2,75 +2,73 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="test.CRMTest" duration-ms="2324" started-at="2020-05-29T04:08:45Z" finished-at="2020-05-29T04:08:48Z">
+  <suite name="test.CRMTest" duration-ms="13130" started-at="2020-06-01T00:08:04Z" finished-at="2020-06-01T00:08:17Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="2324" started-at="2020-05-29T04:08:45Z" finished-at="2020-05-29T04:08:48Z">
+    <test name="Command line test" duration-ms="13130" started-at="2020-06-01T00:08:04Z" finished-at="2020-06-01T00:08:17Z">
       <class name="test.CRMTest">
-        <test-method status="FAIL" signature="createQuickDraft()[pri:1, instance:test.CRMTest@5ebec15]" name="createQuickDraft" duration-ms="2289" started-at="2020-05-28T23:08:45Z" finished-at="2020-05-28T23:08:48Z">
+        <test-method status="FAIL" signature="createQuickDraft()[pri:1, instance:test.CRMTest@5ebec15]" name="createQuickDraft" duration-ms="13043" started-at="2020-05-31T19:08:04Z" finished-at="2020-05-31T19:08:17Z">
           <exception class="org.openqa.selenium.SessionNotCreatedException">
             <message>
-              <![CDATA[session not created: This version of ChromeDriver only supports Chrome version 81
+              <![CDATA[session not created: This version of ChromeDriver only supports Chrome version 83
 Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
-System info: host: 'DESKTOP-43FULGJ', ip: '192.168.1.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+System info: host: 'silverone1', ip: '192.168.1.64', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: driver.version: ChromeDriver
 remote stacktrace: Backtrace:
-	Ordinal0 [0x002C5F73+2449267]
-	Ordinal0 [0x001F8361+1606497]
-	Ordinal0 [0x000EF969+522601]
-	Ordinal0 [0x000805F3+67059]
-	Ordinal0 [0x0007CD92+52626]
-	Ordinal0 [0x0009C127+180519]
-	Ordinal0 [0x0009BF2D+180013]
-	Ordinal0 [0x00099E5B+171611]
-	Ordinal0 [0x00081DD8+73176]
-	Ordinal0 [0x00082E50+77392]
-	Ordinal0 [0x00082DE9+77289]
-	Ordinal0 [0x0020D8D7+1693911]
-	GetHandleVerifier [0x00364036+522726]
-	GetHandleVerifier [0x00363D74+522020]
-	GetHandleVerifier [0x00379187+609079]
-	GetHandleVerifier [0x003648A6+524886]
-	Ordinal0 [0x00205CBC+1662140]
-	Ordinal0 [0x0020F23B+1700411]
-	Ordinal0 [0x0020F3A3+1700771]
-	Ordinal0 [0x00225215+1790485]
-	BaseThreadInitThunk [0x77766359+25]
-	RtlGetAppContainerNamedObjectPath [0x778F7C24+228]
-	RtlGetAppContainerNamedObjectPath [0x778F7BF4+180]
-	(No symbol) [0x00000000]
+	Ordinal0 [0x00779563+2725219]
+	Ordinal0 [0x00678551+1672529]
+	Ordinal0 [0x00560359+525145]
+	Ordinal0 [0x004F0B77+68471]
+	Ordinal0 [0x004ED32C+54060]
+	Ordinal0 [0x0050CC37+183351]
+	Ordinal0 [0x0050CA3D+182845]
+	Ordinal0 [0x0050A94B+174411]
+	Ordinal0 [0x004F2528+75048]
+	Ordinal0 [0x004F35A0+79264]
+	Ordinal0 [0x004F3539+79161]
+	Ordinal0 [0x0068D607+1758727]
+	GetHandleVerifier [0x00896546+1050150]
+	GetHandleVerifier [0x00896291+1049457]
+	GetHandleVerifier [0x008A10D7+1094071]
+	GetHandleVerifier [0x00896B46+1051686]
+	Ordinal0 [0x00685B06+1727238]
+	Ordinal0 [0x0068EB7B+1764219]
+	Ordinal0 [0x0068ECE3+1764579]
+	Ordinal0 [0x006A4C05+1854469]
+	BaseThreadInitThunk [0x75586359+25]
+	RtlGetAppContainerNamedObjectPath [0x779D7C24+228]
+	RtlGetAppContainerNamedObjectPath [0x779D7BF4+180]
 ]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 81
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 83
 Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
-System info: host: 'DESKTOP-43FULGJ', ip: '192.168.1.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+System info: host: 'silverone1', ip: '192.168.1.64', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: driver.version: ChromeDriver
 remote stacktrace: Backtrace:
-	Ordinal0 [0x002C5F73+2449267]
-	Ordinal0 [0x001F8361+1606497]
-	Ordinal0 [0x000EF969+522601]
-	Ordinal0 [0x000805F3+67059]
-	Ordinal0 [0x0007CD92+52626]
-	Ordinal0 [0x0009C127+180519]
-	Ordinal0 [0x0009BF2D+180013]
-	Ordinal0 [0x00099E5B+171611]
-	Ordinal0 [0x00081DD8+73176]
-	Ordinal0 [0x00082E50+77392]
-	Ordinal0 [0x00082DE9+77289]
-	Ordinal0 [0x0020D8D7+1693911]
-	GetHandleVerifier [0x00364036+522726]
-	GetHandleVerifier [0x00363D74+522020]
-	GetHandleVerifier [0x00379187+609079]
-	GetHandleVerifier [0x003648A6+524886]
-	Ordinal0 [0x00205CBC+1662140]
-	Ordinal0 [0x0020F23B+1700411]
-	Ordinal0 [0x0020F3A3+1700771]
-	Ordinal0 [0x00225215+1790485]
-	BaseThreadInitThunk [0x77766359+25]
-	RtlGetAppContainerNamedObjectPath [0x778F7C24+228]
-	RtlGetAppContainerNamedObjectPath [0x778F7BF4+180]
-	(No symbol) [0x00000000]
+	Ordinal0 [0x00779563+2725219]
+	Ordinal0 [0x00678551+1672529]
+	Ordinal0 [0x00560359+525145]
+	Ordinal0 [0x004F0B77+68471]
+	Ordinal0 [0x004ED32C+54060]
+	Ordinal0 [0x0050CC37+183351]
+	Ordinal0 [0x0050CA3D+182845]
+	Ordinal0 [0x0050A94B+174411]
+	Ordinal0 [0x004F2528+75048]
+	Ordinal0 [0x004F35A0+79264]
+	Ordinal0 [0x004F3539+79161]
+	Ordinal0 [0x0068D607+1758727]
+	GetHandleVerifier [0x00896546+1050150]
+	GetHandleVerifier [0x00896291+1049457]
+	GetHandleVerifier [0x008A10D7+1094071]
+	GetHandleVerifier [0x00896B46+1051686]
+	Ordinal0 [0x00685B06+1727238]
+	Ordinal0 [0x0068EB7B+1764219]
+	Ordinal0 [0x0068ECE3+1764579]
+	Ordinal0 [0x006A4C05+1854469]
+	BaseThreadInitThunk [0x75586359+25]
+	RtlGetAppContainerNamedObjectPath [0x779D7C24+228]
+	RtlGetAppContainerNamedObjectPath [0x779D7BF4+180]
 
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
@@ -98,7 +96,7 @@ remote stacktrace: Backtrace:
 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:181)
 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:168)
 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
-	at util.CRMBrowserFactory.startBrowser(CRMBrowserFactory.java:16)
+	at util.CRMBrowserFactory.startBrowser(CRMBrowserFactory.java:15)
 	at test.CRMTest.createQuickDraft(CRMTest.java:16)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)

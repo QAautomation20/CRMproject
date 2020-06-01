@@ -1,3 +1,4 @@
-page\CRMBasePage.class
 page\CRMLoginPage.class
+page\CRMnavPage.class
 util\CRMBrowserFactory.class
+page\CRMBasePage.class
