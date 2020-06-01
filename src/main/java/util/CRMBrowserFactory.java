@@ -15,6 +15,7 @@ public class CRMBrowserFactory extends CRMBasePage {
 			driver = new ChromeDriver();
 			driver.manage().timeouts().implicitlyWait(10,  TimeUnit.SECONDS);
 			driver.get("https://freecrm.com/");
+			driver.manage().window().maximize();
 			return driver;
 		}
 }
