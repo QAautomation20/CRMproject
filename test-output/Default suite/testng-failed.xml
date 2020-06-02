@@ -5,7 +5,7 @@
     <classes>
       <class name="test.CRMTest">
         <methods>
-          <include name="createQuickDraft"/>
+          <include name="createDealTest"/>
         </methods>
       </class> <!-- test.CRMTest -->
     </classes>

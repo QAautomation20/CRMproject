@@ -2,15 +2,15 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7808" started-at="2020-05-29T04:38:37Z" finished-at="2020-05-29T04:38:45Z">
+  <suite name="Default suite" duration-ms="28741" started-at="2020-06-02T05:55:21Z" finished-at="2020-06-02T05:55:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7808" started-at="2020-05-29T04:38:37Z" finished-at="2020-05-29T04:38:45Z">
+    <test name="Default test" duration-ms="28741" started-at="2020-06-02T05:55:21Z" finished-at="2020-06-02T05:55:49Z">
       <class name="test.CRMTest">
-        <test-method status="PASS" signature="createQuickDraft()[pri:1, instance:test.CRMTest@61832929]" name="createQuickDraft" duration-ms="7782" started-at="2020-05-28T23:38:37Z" finished-at="2020-05-28T23:38:45Z">
+        <test-method status="PASS" signature="createDealTest()[pri:2, instance:test.CRMTest@61832929]" name="createDealTest" duration-ms="28696" started-at="2020-06-02T00:55:21Z" finished-at="2020-06-02T00:55:49Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createQuickDraft -->
+        </test-method> <!-- createDealTest -->
       </class> <!-- test.CRMTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
